@@ -27,4 +27,26 @@
   354  find
   355  cd ..
   356  find
-  357  history
+  planets
+planets/fictional
+planets/fictional/coruscant.jpeg
+planets/fictional/cybertron.jpeg
+planets/fictional/arrakis.jpeg
+planets/real
+planets/real/telluric
+planets/real/telluric/venus.jpeg
+planets/real/telluric/earth.jpeg
+planets/real/telluric/mars.jpeg
+planets/real/telluric/mercury.jpeg
+planets/real/dwarf-planets
+planets/real/gas-giants
+planets/real/gas-giants/jupiter.jpeg
+planets/real/gas-giants/uranus.jpeg
+planets/real/gas-giants/neptune.jpeg
+planets/real/gas-giants/saturn.jpeg
+planets/inhabited
+planets/inhabited/earth.jpeg
+planets/inhabited/coruscant.jpeg
+planets/inhabited/cybertron.jpeg
+planets/inhabited/arrakis.jpeg
+
