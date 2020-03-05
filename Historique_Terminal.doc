@@ -1,0 +1,30 @@
+﻿curl -L -o planets.zip https://github.com/WildCodeSchool/quests-resources/blob/master/terminal/planets.zip?raw=true
+  329  unzip planets.zip
+  330  cd planets
+  331  mkdir real fictional inhabited
+  332  ls
+  333  cd real
+  334  mkdir telluric gas-giants dwarf-planets
+  335  ls
+  336  mv mercury.jpeg venus.jpeg earth.jpeg mars.jpeg ./real/telluric
+  337  mv mercury.jpeg venus.jpeg earth.jpeg mars.jpeg ./real/telluric/
+  338  cd ..
+  339  mv mercury.jpeg venus.jpeg earth.jpeg mars.jpeg ./real/telluric/
+  340  mv jupiter.jpeg saturn.jpeg uranus.jpeg neptune.jpeg .real/gas-giants
+  341  mv jupiter.jpeg saturn.jpeg uranus.jpeg neptune.jpeg ./real/gas-giants
+  342  mv pluto.jpeg ./real/dwarf-planets
+  343  mv arrakis.jpeg coruscant.jpeg cybertron.jpeg ./fictional
+  344  cd real/telluric
+  345  cp earth.jpeg ~/quetes/shell/planets/inhabited
+  346  cd ..
+  347  cd fictional
+  348  cp arrakis.jpeg coruscant.jpeg cybertron.jpeg ~/quetes/shell/planets/inhabited
+  349  cd ..
+  350  cd real
+  351  cd dwarf-planets
+  352  rm pluto.jpeg
+  353  ls
+  354  find
+  355  cd ..
+  356  find
+  357  history
