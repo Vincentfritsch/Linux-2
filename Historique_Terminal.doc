@@ -22,7 +22,7 @@
   349  cd ..
   350  cd real
   351  cd dwarf-planets
-  352  rm pluto.jpeg
+  352  rm -r planets/real/dwarf-planets
   353  ls
   354  find
   355  cd ..
@@ -38,7 +38,6 @@ planets/real/telluric/venus.jpeg
 planets/real/telluric/earth.jpeg
 planets/real/telluric/mars.jpeg
 planets/real/telluric/mercury.jpeg
-planets/real/dwarf-planets
 planets/real/gas-giants
 planets/real/gas-giants/jupiter.jpeg
 planets/real/gas-giants/uranus.jpeg
@@ -50,3 +49,4 @@ planets/inhabited/coruscant.jpeg
 planets/inhabited/cybertron.jpeg
 planets/inhabited/arrakis.jpeg
 
+  
